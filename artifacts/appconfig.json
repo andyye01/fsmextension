@@ -1,0 +1,10 @@
+{
+  "name": "fsmextension",
+  "provider": "SAPFSM",
+  "description": "fsmextension",
+  "version": "1.0.0",
+  "icon": "C:/Andy/Dev/Kyma/SAPLOGO.png",
+  "dockerRegistry": "andyye01",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
